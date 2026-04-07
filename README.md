@@ -1,9 +1,7 @@
-- # 👋 Hi, I’m @Mahdiyasser
-- ## I’m interested in programming,networking,servers,local ai,open source OSs and iam curently using Linux Mint Cinnamon as my daily driver
-- ## i also made 3 servers file server,media server and web server
-- ## and i host my own website or 4 websites to be presice 
-- ## 🌱 I’m currently learning coding 
-- ## 💞️ I’m looking to collaborate on any projects
-- ## 📫 How to reach me mahdiyasser526@gmail.com
-- ## 😄 Pronouns: mah de
-- ## ⚡ Fun fact:i still use chatgpt and gemini
+## Mahdi
+
+Building software, websites, and technical experiments.
+
+Interested in Linux, electronics, and systems.
+
+Open to work inquiries, collaborations, and volunteer projects — including organizations, small businesses, and individuals: [mahdiyasser.site/contact](https://mahdiyasser.site/contact)
